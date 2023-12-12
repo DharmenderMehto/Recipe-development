@@ -1,0 +1,6 @@
+[Key Points]
+1. Clear Recipe Formet
+ - Standardize the recipe format to include ingredients, step-by-step instruction, cooking tips, and serving suggestions.
+
+2. Ingredient Substitutions
+  - Include information on possible ingredient substitutions to accommodate various dietary restriction.
